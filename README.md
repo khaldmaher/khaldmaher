@@ -1,4 +1,4 @@
-#### I'm **Khalid** from Egypt, and I'm a **Software Developer** who has **Business Acumen**, I really enjoy converting _business issues into code. <br>I have a bachelor's degree in Business sciences from Mansura University, Egypt. Based on that, if I am hired by a software company, I will have a head start over my peers because I quickly grasp the business requirements and terminology.
+I'm **Khalid** from Egypt, and I'm a **Software Developer** who has **Business Acumen**, I really enjoy converting business issues into code. <br>I have a bachelor's degree in Business sciences from Mansura University, Egypt. **Based on that,** if I hired by a software company, I'll have a head start over my peers because **I quickly grasp the business requirements and terminology.**
 
 
 #### Unguided Projects:-                               
