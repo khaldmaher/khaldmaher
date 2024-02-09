@@ -17,7 +17,7 @@ I'm **Khalid** from Egypt, and I'm a **Software Developer** who has **Business A
 #### Platforms of My Problem Solving:-
 
 **Reach me**:
-**[Telegram](https://t.me/Khouailid)**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khaldmaher) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@khaldmaher)
+**[telegram](https://t.me/Khouailid)**
+**[LinkedIn](https://linkedin.com/in/khaldmaher)** **[[Medium](https://medium.com/@khaldmaher)**
 
 
