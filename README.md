@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Khalid from Egypt, and I'm a Software Developer who has Business Acumen, I really enjoy converting business issues into code. <br>I have a bachelor's degree in Business sciences at Mansura University, Egypt. 
+I'm Khalid from Egypt, and I'm a Software Developer who has Business Acumen, I really enjoy converting business issues into code. <br>I have a bachelor's degree in Business sciences from Mansura University, Egypt. 
 
 
 ## 🌐 Socials:
